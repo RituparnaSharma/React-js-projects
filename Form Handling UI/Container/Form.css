@@ -1,0 +1,8 @@
+.Form{
+    background: url("https://www.wallpapertip.com/wmimgs/53-537087_wood-table-blur-background.jpg" ) no-repeat center center fixed;
+    display: table;
+    height: 80vh;
+    width: 100%;
+    position: relative;
+    background-size: cover;
+}
